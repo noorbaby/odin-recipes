@@ -1,11 +1,17 @@
+body {
+  background-image: url("food-bgp.jpg");
+  background-size: cover;
+}
+
 h1 {
   color: rgb(26, 26, 60);
   font-size: 100px;
   text-align: center;
+  margin-top: 20px;
 }
 
 li {
   text-align: center;
   font-size: 40px;
-  color: black;
+  color: yellow;
 }
