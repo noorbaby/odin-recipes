@@ -13,3 +13,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
+.image-under {
+  color: white;
+  background: black;
+}
