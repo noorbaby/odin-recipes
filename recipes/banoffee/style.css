@@ -30,4 +30,23 @@ h1 {
 h4 {
   background-color: white;
   display: inline;
+  margin-top: 0;
+}
+
+h3 {
+  background-color: white;
+  display: block;
+  margin-bottom: 0;
+}
+li {
+  background-color: white;
+  padding: 1px 1px;
+  max-width: 50%;
+  margin: 10px 0;
+  text-align: left;
+}
+
+h3 {
+  background-color: white;
+  display: inline-block;
 }
